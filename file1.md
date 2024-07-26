@@ -4,4 +4,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus ornare sapien
 
 [link](./file2.md)
 
-[](./dir/file3.md)
+[link dir](./dir/file3.md)
